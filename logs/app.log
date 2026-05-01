@@ -1,0 +1,91 @@
+2026-05-01 22:35:58,586 - INFO - Dataset loaded with shape: (1025, 14)
+2026-05-01 22:37:02,480 - INFO - Dataset loaded with shape: (1025, 14)
+2026-05-01 22:43:34,467 - INFO - Dataset loaded with shape: (1025, 14)
+2026-05-01 22:43:34,480 - INFO - Data split into train and test sets with test size: 0.2
+2026-05-01 22:45:48,955 - INFO - Dataset loaded with shape: (1025, 14)
+2026-05-01 22:45:48,962 - INFO - Data split into train and test sets with train size : (817, 13) & test size : (208, 13) and test size: 0.2
+2026-05-01 22:59:39,767 - INFO - Dataset loaded with shape: (1025, 14)
+2026-05-01 22:59:39,774 - INFO - Data split into train and test sets with train size : (817, 13) & test size : (208, 13) and test size: 0.2
+2026-05-01 22:59:41,959 - INFO - Model training completed
+2026-05-01 23:05:17,880 - INFO - Dataset loaded with shape: (1025, 14)
+2026-05-01 23:05:17,883 - INFO - Data split into train and test sets with train size : (817, 13) & test size : (208, 13) and test size: 0.2
+2026-05-01 23:05:19,036 - INFO - Model training completed
+2026-05-01 23:05:19,338 - INFO - Train Accuracy: 0.9070, Test Accuracy: 0.7644
+2026-05-01 23:05:19,338 - INFO - Train Recall: 0.9471, Test Recall: 0.8364
+2026-05-01 23:05:19,338 - INFO - Train F1 Score: 0.9120, Test F1 Score: 0.7897
+2026-05-01 23:07:45,236 - INFO - Dataset loaded with shape: (1025, 14)
+2026-05-01 23:07:45,240 - INFO - Data split into train and test sets with train size : (817, 13) & test size : (208, 13) and test size: 0.2
+2026-05-01 23:07:46,294 - INFO - Model training completed
+2026-05-01 23:07:46,544 - INFO - Train Accuracy: 0.9070, Test Accuracy: 0.7644
+2026-05-01 23:07:46,545 - INFO - Train Recall: 0.9471, Test Recall: 0.8364
+2026-05-01 23:07:46,545 - INFO - Train F1 Score: 0.9120, Test F1 Score: 0.7897
+2026-05-01 23:07:46,744 - INFO - Model saved at C:\Users\SHREY\Desktop\ml-med-Buddy-ml\model\heart_disease_prediction_model.joblib
+2026-05-01 23:07:46,744 - INFO - Training process completed successfully
+2026-05-01 23:10:00,668 - INFO - Dataset loaded with shape: (1025, 14)
+2026-05-01 23:10:00,671 - INFO - Data split into train and test sets with train size : (817, 13) & test size : (208, 13) and test size: 0.2
+2026-05-01 23:10:01,896 - INFO - Model training completed
+2026-05-01 23:10:02,313 - INFO - Train Accuracy: 0.9070, Test Accuracy: 0.7644
+2026-05-01 23:10:02,314 - INFO - Train Recall: 0.9471, Test Recall: 0.8364
+2026-05-01 23:10:02,314 - INFO - Train F1 Score: 0.9120, Test F1 Score: 0.7897
+2026-05-01 23:10:02,314 - INFO - Classification Report on Train Set:
+2026-05-01 23:10:02,321 - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.94      0.87      0.90       401
+           1       0.88      0.95      0.91       416
+
+    accuracy                           0.91       817
+   macro avg       0.91      0.91      0.91       817
+weighted avg       0.91      0.91      0.91       817
+
+2026-05-01 23:10:02,321 - INFO - Classification Report on Test Set:
+2026-05-01 23:10:02,326 - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.79      0.68      0.73        98
+           1       0.75      0.84      0.79       110
+
+    accuracy                           0.76       208
+   macro avg       0.77      0.76      0.76       208
+weighted avg       0.77      0.76      0.76       208
+
+2026-05-01 23:10:02,622 - INFO - Model saved at C:\Users\SHREY\Desktop\ml-med-Buddy-ml\model\heart_disease_prediction_model.joblib
+2026-05-01 23:10:02,622 - INFO - Training process completed successfully
+2026-05-01 23:11:42,031 - INFO - Dataset loaded with shape: (1025, 14)
+2026-05-01 23:11:42,034 - INFO - Data split into train and test sets with train size : (817, 13) & test size : (208, 13) and test size: 0.2
+2026-05-01 23:11:43,164 - INFO - Model training completed
+2026-05-01 23:11:43,429 - INFO - Train Accuracy: 0.9070, Test Accuracy: 0.7644
+2026-05-01 23:11:43,429 - INFO - Train Recall: 0.9471, Test Recall: 0.8364
+2026-05-01 23:11:43,429 - INFO - Train F1 Score: 0.9120, Test F1 Score: 0.7897
+2026-05-01 23:11:43,429 - INFO - Classification Report on Train Set:
+2026-05-01 23:11:43,433 - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.94      0.87      0.90       401
+           1       0.88      0.95      0.91       416
+
+    accuracy                           0.91       817
+   macro avg       0.91      0.91      0.91       817
+weighted avg       0.91      0.91      0.91       817
+
+2026-05-01 23:11:43,433 - INFO - Classification Report on Test Set:
+2026-05-01 23:11:43,436 - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.79      0.68      0.73        98
+           1       0.75      0.84      0.79       110
+
+    accuracy                           0.76       208
+   macro avg       0.77      0.76      0.76       208
+weighted avg       0.77      0.76      0.76       208
+
+2026-05-01 23:11:43,641 - INFO - Model saved at C:\Users\SHREY\Desktop\ml-med-Buddy-ml\model_dir\heart_disease_prediction_model.joblib
+2026-05-01 23:11:43,641 - INFO - Training process completed successfully
+2026-05-01 23:30:52,180 - INFO - Model loaded successfully for prediction.
+2026-05-02 00:32:54,409 - INFO - Model loaded successfully for prediction.
+2026-05-02 00:33:35,964 - INFO - Model loaded successfully for prediction.
+2026-05-02 00:36:17,398 - INFO - Model loaded successfully for prediction.
+2026-05-02 00:36:49,269 - INFO - Model loaded successfully for prediction.
+2026-05-02 00:36:56,045 - INFO - Model loaded successfully for prediction.
+2026-05-02 00:37:35,665 - INFO - Model loaded successfully for prediction.
+2026-05-02 00:42:50,454 - INFO - Model loaded successfully for prediction.
