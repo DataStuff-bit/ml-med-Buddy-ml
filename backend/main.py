@@ -34,7 +34,7 @@ def health_check():
 @app.post("/predict")
 def predict(input_data: HeartDiseaseInput):
     # Convert Pydantic model to dictionary
-    input_dict = input_data.dict()
+    input_dict = input_data.model_dump()
 
     # Get prediction from model
     prediction, probability = predict_heart_disease(input_dict)
